@@ -24,4 +24,4 @@
 将 `lr_scheduler.h` 放置于项目 `include/` 目录，并在需要使用的地方包含。示例程序 `main.cc` 可如下编译：
 
 ```bash
-g++ -std=c++11 -Iinclude -lgflags -lpthread examples/main.cc -o lr_scheduler_demo
+g++ -std=c++11 -Iinclude -lgflags -lpthread examples/main.cc -o lr_scheduler_demo# LearingScheduler
