@@ -1,3 +1,3 @@
-/home/lienne/学习调度器/build/CMakeFiles/lr_scheduler_demo.dir
-/home/lienne/学习调度器/build/CMakeFiles/edit_cache.dir
-/home/lienne/学习调度器/build/CMakeFiles/rebuild_cache.dir
+/home/lienne/lr_scheduler_demo/build/CMakeFiles/lr_scheduler_demo.dir
+/home/lienne/lr_scheduler_demo/build/CMakeFiles/edit_cache.dir
+/home/lienne/lr_scheduler_demo/build/CMakeFiles/rebuild_cache.dir

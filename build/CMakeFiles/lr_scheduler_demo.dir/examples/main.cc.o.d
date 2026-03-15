@@ -1,6 +1,6 @@
 CMakeFiles/lr_scheduler_demo.dir/examples/main.cc.o: \
- /home/lienne/学习调度器/examples/main.cc /usr/include/stdc-predef.h \
- /usr/include/c++/11/iostream \
+ /home/lienne/lr_scheduler_demo/examples/main.cc \
+ /usr/include/stdc-predef.h /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -147,9 +147,10 @@ CMakeFiles/lr_scheduler_demo.dir/examples/main.cc.o: \
  /usr/include/c++/11/bits/stl_uninitialized.h \
  /usr/include/c++/11/bits/stl_vector.h \
  /usr/include/c++/11/bits/stl_bvector.h \
- /usr/include/c++/11/bits/vector.tcc /usr/include/gflags/gflags.h \
- /usr/include/gflags/gflags_declare.h /usr/include/gflags/gflags_gflags.h \
- /home/lienne/学习调度器/lr_scheduler.h /usr/include/c++/11/map \
+ /usr/include/c++/11/bits/vector.tcc /usr/local/include/gflags/gflags.h \
+ /usr/local/include/gflags/gflags_declare.h \
+ /usr/local/include/gflags/gflags_gflags.h \
+ /home/lienne/lr_scheduler_demo/lr_scheduler.h /usr/include/c++/11/map \
  /usr/include/c++/11/bits/stl_tree.h \
  /usr/include/c++/11/ext/aligned_buffer.h \
  /usr/include/c++/11/bits/stl_map.h /usr/include/c++/11/tuple \

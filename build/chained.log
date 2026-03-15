@@ -1,0 +1,56 @@
+Initial LR: 0.001
+Optimizer LR set to 0
+Optimizer LR set to 0.001
+Optimizer LR set to 0.001
+Optimizer LR set to 0.0002
+Optimizer LR set to 0.001
+Optimizer LR set to 0.001
+Step 1: LR = 0.001
+Optimizer LR set to 0.0004
+Optimizer LR set to 0.001
+Optimizer LR set to 0.001
+Step 2: LR = 0.001
+Optimizer LR set to 0.0006
+Optimizer LR set to 0.001
+Optimizer LR set to 0.001
+Step 3: LR = 0.001
+Optimizer LR set to 0.0008
+Optimizer LR set to 0.0005
+Optimizer LR set to 0.0005
+Step 4: LR = 0.0005
+Optimizer LR set to 0.001
+Optimizer LR set to 0.0005
+Optimizer LR set to 0.0005
+Step 5: LR = 0.0005
+Optimizer LR set to 0.001
+Optimizer LR set to 0.0005
+Optimizer LR set to 0.0005
+Step 6: LR = 0.0005
+Optimizer LR set to 0.001
+Optimizer LR set to 0.00025
+Optimizer LR set to 0.00025
+Step 7: LR = 0.00025
+Optimizer LR set to 0.001
+Optimizer LR set to 0.00025
+Optimizer LR set to 0.00025
+Step 8: LR = 0.00025
+Optimizer LR set to 0.001
+Optimizer LR set to 0.00025
+Optimizer LR set to 0.00025
+Step 9: LR = 0.00025
+Optimizer LR set to 0.001
+Optimizer LR set to 0.000125
+Optimizer LR set to 0.000125
+Step 10: LR = 0.000125
+
+--- Checkpoint example ---
+Saved state (first 5 entries):
+  last_lr = 0.000125
+  step_count = 10
+  sub_0_end_lr = 0.001
+  sub_0_last_lr = 0.001
+  sub_0_start_lr = 0
+Optimizer LR set to 0
+Optimizer LR set to 0.001
+Optimizer LR set to 0.001
+After loading state, new scheduler LR = 0.000125

@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/lienne/学习调度器
+CXX_INCLUDES = -I/home/lienne/lr_scheduler_demo
 
 CXX_FLAGS = -std=gnu++11
 

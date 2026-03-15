@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/lienne/学习调度器/examples/main.cc" "CMakeFiles/lr_scheduler_demo.dir/examples/main.cc.o" "gcc" "CMakeFiles/lr_scheduler_demo.dir/examples/main.cc.o.d"
+  "/home/lienne/lr_scheduler_demo/examples/main.cc" "CMakeFiles/lr_scheduler_demo.dir/examples/main.cc.o" "gcc" "CMakeFiles/lr_scheduler_demo.dir/examples/main.cc.o.d"
   )
 
 # Targets to which this target links.
