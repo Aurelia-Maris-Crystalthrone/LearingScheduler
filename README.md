@@ -204,3 +204,4 @@ python demo/align.py --log_path infinitrain/gpt2_steplr_infini.log --save_plot l
 1. LearningScheduler 是多语言学习率调度器库，核心适配大模型无限训练场景，支持StepLR、ChainedLR等经典策略；
 2. 仓库分为demo（基础实现）和infinitrain（无限训练验证）两大模块，提供C++/Python双版本实现，兼顾性能与易用性；
 3. 配套完整的日志、文档和示例代码，可快速验证不同调度策略对GPT2/Llama等大模型训练的影响。
+联系：https://github.com/Aurelia-Maris-Crystalthrone/LearingScheduler
